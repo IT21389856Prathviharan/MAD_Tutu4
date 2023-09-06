@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         btnwelcome.setOnClickListener {
             sayHello()
+
         }
 
         btngoodbye.setOnClickListener {
